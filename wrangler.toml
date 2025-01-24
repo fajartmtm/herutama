@@ -1,4 +1,4 @@
-name = "herutama"
+name = "jarr"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "134.209.23.180"
-UUID = "e068e39a-6fb0-45f9-a60f-a1549e6e7a1e"
+UUID = "0612d9ed-2bff-489f-a995-3ff7ed119476"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
